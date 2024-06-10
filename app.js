@@ -242,6 +242,89 @@
 
 // ***************** 9-masala *****************
 
+// let a = 'salom';
+// let b = a.split('a');
+// console.log(b);
+
 
 // ***************** 10-masala *****************
 
+let a = 'akaxonlar';
+let b = a.replaceAll('a','*');
+let c = b.repeat(3);
+let f = c.split( )
+console.log(f);
+
+
+
+// *************** Massiv va stringlar *****************
+
+
+// ***************** 1-masala *****************
+
+// let a = '         salom akalar     ';
+// let b = a.trim();
+// let c = b.toUpperCase();
+// let d = c.split('',);
+// let f = d.toString();
+// console.log(f);
+
+
+// ***************** 2-masala *****************
+
+
+// ***************** 3-masala *****************
+// ***************** 4-masala *****************
+// ***************** 5-masala *****************
+// ***************** 6-masala *****************
+ 
+// ***************** 8-masala *****************
+// ***************** 9-masala *****************
+// ***************** 10-masala *****************
+
+// ********** Stringlarda `indexOf`, `search`, `includes`, va `startsWith` **********
+
+
+// ***************** 1-masala *****************
+
+// let a = 'apple';
+// let b = a.indexOf('a');
+// console.log(b);
+
+
+// ***************** 2-masala *****************
+
+// let a = 'salom @gmail.com';
+// let b = a.indexOf('@');
+// console.log(b);
+
+
+// ***************** 3-masala *****************
+
+// let a = 'salom akalar banana bormi dokanda';
+// let b = a.search('banana');
+// console.log(b);
+
+
+// ***************** 4-masala *****************
+
+// function searchForDigit(str) {
+//     for (let i = 0; i < str.length; i++) {
+//         if (!isNaN(str[i]) && str[i] !== ' ') {
+//             return i;
+//         }
+//     }
+//     return -1;
+// }
+// console.log(searchForDigit("Menda 3 ta olma bor"));
+// console.log(searchForDigit("Menda uchta ta olma bor"));
+
+
+// ***************** 5-masala *****************
+
+
+// ***************** 6-masala *****************
+// ***************** 7-masala *****************
+// ***************** 8-masala *****************
+// ***************** 9-masala *****************
+// ***************** 10-masala *****************
