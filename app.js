@@ -22,8 +22,16 @@
 
 // ***************** 3-masala *****************
 
-// let a = 'salom';
-// console.log(a.charCodeAt(0));
+// let str = 'world';
+// function getMiddleChars(str) {
+//     let res;
+//     if( str.length % 2 == 1){
+//         let middleIndex = Math.trunc(str.length / 2);
+//         res = str.substring(middleIndex, middleIndex + 1);
+//     }
+//     return res;
+// }
+// console.log(getMiddleChars('world'));
 
 
 // ***************** 4-masala *****************
@@ -64,21 +72,16 @@
 
 // ***************** 3-masala *****************
 
-// let a = 'salom' ;
-// let b ;
-// if(a % 2 == 1){
-// b = a.substring(Mathceila.length / 2 )
-// }else{
-// b = a.substring(a.length / 2 - 1, a.length / 2 + 1)
+// let str = 'world';
+// function getMiddleChars(str) {
+//     let res;
+//     if( str.length % 2 == 1){
+//         let middleIndex = Math.trunc(str.length / 2);
+//         res = str.substring(middleIndex, middleIndex + 1);
+//     }
+//     return res;
 // }
-// console.log(b);
-
-
-
-
-// let ark = 'code';
-// let b = ark.padStart(10,'0')
-// console.log(b);
+// console.log(getMiddleChars('world'));
 
 // ***************** 4-masala *****************
 
