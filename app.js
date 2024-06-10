@@ -280,6 +280,18 @@ console.log(f);
  
 // ***************** 8-masala *****************
 // ***************** 9-masala *****************
+
+// let sum = 0 ;
+// let a = ['apple','banana','ananas'];
+// for(let i = 0 ; i < a.length ; i++){
+//   sum += a[i].length;
+ 
+// }
+// let b = sum.toString();
+
+// console.log(b);
+
+
 // ***************** 10-masala *****************
 
 // ********** Stringlarda `indexOf`, `search`, `includes`, va `startsWith` **********
